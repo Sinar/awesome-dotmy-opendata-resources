@@ -1,8 +1,8 @@
 # How to contribute
 
-I'm really glad you're reading this, because we need contribute to new relevant resources for this repository.
+I'm really glad you're reading this, because we welcome contributions on useful new resources for this repository.
 
-If you haven't already, come find us at #opendata on Sinar's Slack Channel
+If you haven't already, come find us at #opendata on Sinar's Slack Channel too
 
 This list [accepts and encourages pull requests](https://github.com/Sinar/awesome-dotmy-opendata-resources).
 
@@ -22,6 +22,6 @@ This list [accepts and encourages pull requests](https://github.com/Sinar/awesom
     $ git commit -m "A brief summary of the commit
     > 
     > A paragraph describing what changed and its impact."
- - All contributions are to adhere to Community (Code Of Conduct](https://github.com/psf/community-code-of-conduct/blob/main/psf-code-of-conduct.md)
+ - All contributions are to adhere to Community [Code Of Conduct](https://github.com/psf/community-code-of-conduct/blob/main/psf-code-of-conduct.md)
 
 **Thank you for contributing!**

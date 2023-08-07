@@ -14,6 +14,7 @@
 - [Tools](#tools)
 - [Resources](#resources)
 - [Thanks](#thanks)
+- [License](#license)
 
 ## Competition
 * [CHallenge on Innovation and Problem solving through Technology Advancement (CHIPTA) Hackathon](https://chipta.mampu.gov.my/) by [MAMPU](https://www.mampu.gov.my/)
@@ -70,5 +71,5 @@
 * [Awesome Project](https://github.com/sindresorhus/awesome) - For this awesome list/listicle project
 
 ## License
-* This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
-* [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+* This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+* [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](ihttp://creativecommons.org/licenses/by-sa/4.0/)
