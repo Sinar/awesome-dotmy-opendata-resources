@@ -35,6 +35,9 @@
 * [Electoral Boundaries - GeoJSON parliamentary, DUN and district boundaries](https://github.com/dosm-malaysia/data-open/tree/main/datasets/geodata) from [Department of Statistics Malaysia](https://github.com/dosm-malaysia) 
 * [Census data such as demographics by district, DUN and Parliamentary areas](https://github.com/dosm-malaysia/data-open/tree/main/datasets/census) from [Department of Statistics Malaysia](https://github.com/dosm-malaysia) 
 * [Basic economic data such as income, poverty rates and GINI index, by state, Parliament and DUN](https://github.com/dosm-malaysia/data-open/blob/main/datasets/economy/hies_2019.csv) from [Department of Statistics Malaysia](https://github.com/dosm-malaysia) 
+* [Official data on the COVID-19 epidemic in Malaysia](https://github.com/MoH-Malaysia/covid19-public) by [Ministry of Health Malaysia](https://github.com/MoH-Malaysia/) 
+* [Official data on Malaysia's National Covid-​19 Immunisation Programme (PICK)](https://github.com/CITF-Malaysia/citf-public) by [Covid-19 Immunisation Task Force](https://github.com/CITF-Malaysia) 
+* [KKM Now Open Data](https://github.com/MoH-Malaysia/kkmnow-data/) - links to other opendata repo such as Covid 19, blood donation, organ donation, peka B40, Healthcare resources by [Ministry of Health Malaysia](https://github.com/MoH-Malaysia/) 
 
 ## Portal
 
@@ -51,6 +54,8 @@
 * [Malaysia Open Data Portal](https://www.data.gov.my/) by [MAMPU](https://www.mampu.gov.my/)
 * [Sarawak Open Data Portal](https://data.sarawak.gov.my/)  by [Sarawak Government](https://www.sarawak.gov.my/)
 * [OpenDOSM](https://open.dosm.gov.my/) - Alternative data portal with Data Catalogue on Economy & Healthcare as well as Dashboards(Economy, Financial Sector, Social, GDP & Demography) by [OpenDOSM team](https://github.com/DOSM-GitHub) from within [Department of Statistics Malaysia](https://github.com/dosm-malaysia) 
+* [KKMNOW Portal](https://data.moh.gov.my/) with Data & Dashboards on Infectious Disease (Covid), Digitalisation, Healthcare Resources & Programs by [Ministry of Health Malaysia](https://github.com/MoH-Malaysia/) 
+
 
 ### Research
 * [Open Government Data: Principles, Benefits and Evaluations by Khazanah Research Insititute](https://www.krinstitute.org/Discussion_Papers-@-Open_Government_Data-;_Principles,_Benefits_and_Evaluations.aspx)  by [Khazanah Research Institute](https://www.krinstitute.org/)
@@ -72,4 +77,4 @@
 
 ## License
 * This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
-* [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](ihttp://creativecommons.org/licenses/by-sa/4.0/)
+ [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](ihttp://creativecommons.org/licenses/by-sa/4.0/)
