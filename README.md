@@ -8,7 +8,7 @@
   - [Government Data](#government-data)
 - [Portal](#portal)
   - [Civic & Civil Society Portal](#civic--civil-society-portal)
-  - [Research & Science Portal](##research--science-portal)
+  - [Research & Science Portal](#research--science-portal)
   - [Government Portal](#government-portal) 
 - [Research](#research)
 - [Tools](#tools)
