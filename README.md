@@ -61,6 +61,7 @@
 * [Open Government Data: Principles, Benefits and Evaluations by Khazanah Research Insititute](https://www.krinstitute.org/Discussion_Papers-@-Open_Government_Data-;_Principles,_Benefits_and_Evaluations.aspx)  by [Khazanah Research Institute](https://www.krinstitute.org/)
 * [Open Government Data in Malaysia: Landscape, Challenges and Aspirations](https://www.krinstitute.org/Discussion_Papers-@-Open_Government_Data_in_Malaysia-;_Landscape,_Challenges_and_Aspirations.aspx) by [Khazanah Research Institute](https://www.krinstitute.org/)
 * [Open Government Data for Academic Research](https://www.krinstitute.org/Working_Paper-@-Open_Government_Data_for_Academic_Research.aspx) by [Khazanah Research Institute](https://www.krinstitute.org/)
+* [Key Penang Statistics](https://penanginstitute.org/resources/key-penang-statistics/) - sets of publicly accessible Tableau based dashboards based on DoSM public data. A great way to get started on exploring data that is available publicly from government agencies by [Philip Khor](https://github.com/philip-khor) for [Penang Institute](https://penanginstitute.org/aboutus/the-institute/)
 
 ### Tools
 * [Malaysian Election Dataviz](https://malaysianelectiondataviz.com/) - Set of ready to use visualization tools from Thibi.co for GE15 Elections by [Thibi.co](https://github.com/Thibico/)
