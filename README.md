@@ -62,7 +62,7 @@
 * [Open Government Data in Malaysia: Landscape, Challenges and Aspirations](https://www.krinstitute.org/Discussion_Papers-@-Open_Government_Data_in_Malaysia-;_Landscape,_Challenges_and_Aspirations.aspx) by [Khazanah Research Institute](https://www.krinstitute.org/)
 * [Open Government Data for Academic Research](https://www.krinstitute.org/Working_Paper-@-Open_Government_Data_for_Academic_Research.aspx) by [Khazanah Research Institute](https://www.krinstitute.org/)
 * [Key Penang Statistics](https://statistics.penanginstitute.org/) - set of publicly accessible Tableau-based dashboards based on DoSM public data and other government sources. A great way to get started on exploring data that is available publicly from government agencies by [Philip Khor](https://github.com/philip-khor) for [Penang Institute](https://penanginstitute.org/aboutus/the-institute/)
-* [Data Journalism Assessment Malaysia](https://internews.org/wp-content/uploads/2021/12/Data-Journalism-Assessment-Malaysia-ENG-FINAL_Jan142022.pdf) by [Sinar Project](https://github.com/Sinar/)
+* [Data Journalism Assessment Malaysia](https://internews.org/wp-content/uploads/2021/12/Data-Journalism-Assessment-Malaysia-ENG-FINAL_Jan142022.pdf) by [Sinar Project](https://github.com/Sinar/) - set of case studies, resources and tips for writing data journalism stories in Malaysia by leading journalists and newsrooms
 
 ### Tools
 * [Malaysian Election Dataviz](https://malaysianelectiondataviz.com/) - Set of ready to use visualization tools from Thibi.co for GE15 Elections by [Thibi.co](https://github.com/Thibico/)
