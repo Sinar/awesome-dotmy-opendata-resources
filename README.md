@@ -17,7 +17,7 @@
 - [License](#license)
 
 ## Competition
-* [CHallenge on Innovation and Problem solving through Technology Advancement (CHIPTA) Hackathon](https://chipta.mampu.gov.my/) by [MAMPU](https://www.mampu.gov.my/)
+* CHallenge on Innovation and Problem solving through Technology Advancement (CHIPTA) Hackathon by MAMPU
 
 ## Data
 
