@@ -23,7 +23,7 @@
 
 ### Civic & Civil Society
 * [Various Voters, Census(DUN & Parliament), Results, Candidates Data](https://github.com/Thevesh/analysis-election-msia/tree/main/data) by [Thevesh](https://github.com/Thevesh/)
-* [Open Data on recent by-elections & GE results](https://www.datatalk.asia/dataset/list/1/?&fnegaraid=2,) on the DataTalk.asia portal by [Tindak Malaysia](https://github.com/TindakMalaysia)  
+
 * [DataPortal.asia - Malaysia](https://dataportal.asia/dataset?vocab_economy_names=Malaysia) 
 * [Politikus](https://politikus.sinarproject.org/open-data) by [Sinar Project](https://github.com/Sinar/)
 
@@ -44,7 +44,7 @@
 ### Civic & Civil Society Portal
 * [Malaysian Election Dataviz](https://malaysianelectiondataviz.com/) by [Thibi.co](https://github.com/Thibico/)
 * [Malaysian Civil Society Open Data](https://data.sinarproject.org/) by [Sinar Project](https://github.com/Sinar/)
-* [DataTalk.asia](https://www.datatalk.asia/)
+
 * [DataPortal.asia - Malaysia](https://dataportal.asia/dataset?vocab_economy_names=Malaysia) 
 
 ### Research & Science Portal
