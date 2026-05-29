@@ -19,8 +19,9 @@
 
 ## Competition
 * [CHallenge on Innovation and Problem solving through Technology Advancement (CHIPTA) Hackathon](https://web.archive.org/web/20241112191232/https://chipta.mampu.gov.my/) - National public sector innovation and problem-solving hackathon by [MAMPU](https://mampu.gov.my/).
-* [DOSM Datathon 2024](https://www.dosm.gov.my/portal-main/article/datathon-2024) - National statistics data competition exploring DOSM's open data by [Department of Statistics Malaysia (GH)](https://github.com/dosm-malaysia).
-* [2022 UN Big Data Hackathon for DOSM](https://github.com/DOSM-GitHub/2022-UN-Big-Data-Hackathon) - Hackathon on food security and trade using big data and satellite imagery by [DOSM-GitHub (GH)](https://github.com/DOSM-GitHub/).
+* [DOSM Datathon 2024](https://www.dosm.gov.my/portal-main/article/datathon-2024) - National statistics datathon exploring DOSM's open data, co-organised with Statistics Club (inStats) and College of Computing, Informatics and Mathematics, Universiti Teknologi MARA (UiTM). Themed "Finding Digital and Green Skills" by [Department of Statistics Malaysia (GH)](https://github.com/dosm-malaysia).
+* [DOSM Datathon 2025](https://www.dosm.gov.my/portal-main/article/datathon-2025) - National statistics datathon exploring DOSM's open data, co-organised with Statistics Club (inStats) and College of Computing, Informatics and Mathematics, Universiti Teknologi MARA (UiTM). Themed "Leveraging ML and AI to develop innovative solutions for Decent Standard of Living in Malaysia" by [Department of Statistics Malaysia (GH)](https://github.com/dosm-malaysia).
+* [2022 UN Big Data Hackathon for DOSM](https://github.com/DOSM-GitHub/2022-UN-Big-Data-Hackathon) - Global hackathon on food security and trade using big data and satellite imagery, organised by UNCEBD and Statistics Indonesia. DOSM's team "GeMy Malaysia" placed as Key Contributor in the Big Data Expert track by [DOSM-GitHub (GH)](https://github.com/DOSM-GitHub/).
 
 ## Data
 
@@ -44,6 +45,7 @@
 * [Official data on the COVID-19 epidemic in Malaysia](https://github.com/MoH-Malaysia/covid19-public) by [Ministry of Health Malaysia (GH)](https://github.com/MoH-Malaysia/).
 * [Official data on Malaysia's National Covid-​19 Immunisation Programme (PICK)](https://github.com/CITF-Malaysia/citf-public) by [Covid-19 Immunisation Task Force (GH)](https://github.com/CITF-Malaysia).
 * [KKM Now Open Data](https://github.com/MoH-Malaysia/kkmnow-data/) - links to other opendata repo such as Covid 19, blood donation, organ donation, peka B40, Healthcare resources by [Ministry of Health Malaysia (GH)](https://github.com/MoH-Malaysia/).
+* [ODIN Assessment Dataset](https://odin.opendatawatch.com/data) - Downloadable ODIN scores for Malaysia and all assessed countries (2015–2024) in CSV, JSON, and XLSX. Coverage and openness scores broken down by social, economic, and environmental categories, useful for tracking DOSM's open data progress over time by [Open Data Watch](https://opendatawatch.com/).
 
 ## Portal
 
@@ -64,6 +66,7 @@
 
 
 ## Research
+* [Open Data Inventory (ODIN)](https://odin.opendatawatch.com/) - Assesses national statistical office websites on coverage and openness criteria, with Malaysia profiles from 2015 to 2024. Benchmark data.gov.my and DOSM against global open data standards by [Open Data Watch](https://opendatawatch.com/).
 * [Open Government Data: Principles, Benefits and Evaluations by Khazanah Research Insititute](https://www.krinstitute.org/Discussion_Papers-@-Open_Government_Data-;_Principles,_Benefits_and_Evaluations.aspx) by [Khazanah Research Institute](https://www.krinstitute.org/).
 * [Open Government Data in Malaysia: Landscape, Challenges and Aspirations](https://www.krinstitute.org/Discussion_Papers-@-Open_Government_Data_in_Malaysia-;_Landscape,_Challenges_and_Aspirations.aspx) by [Khazanah Research Institute](https://www.krinstitute.org/).
 * [Open Government Data for Academic Research](https://www.krinstitute.org/Working_Paper-@-Open_Government_Data_for_Academic_Research.aspx) by [Khazanah Research Institute](https://www.krinstitute.org/).
